@@ -2,3 +2,9 @@ node_modules
 dist
 .DS_Store
 *.local
+src/ 
+index.html 
+package*.json 
+*.config.js 
+*.config.ts 
+tsconfig*.json 
