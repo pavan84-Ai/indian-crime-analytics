@@ -36,6 +36,10 @@ A comprehensive 4-page interactive report (`Indian_Crime_Analytics.pbix`):
 * **Page 2: Crime Against Women**: Regional breakdowns across domestic violence, assault, and harassment with state ranking matrices.
 * **Page 3: Cyber Crime Dashboard**: Yearly incident distribution across digital fraud, identity theft, and cyberstalking across states.
 * **Page 4: Crime Risk Dashboard**: Real-time integration with `ml_crime_predictions`. Features automated conditional formatting (High Risk highlighted in red), scatter plot correlation of police strength vs. crime rate, and bidirectional state-to-district slicers.
+* <img width="1132" height="637" alt="Screenshot 2026-09-08 152115" src="https://github.com/user-attachments/assets/a5d0dd7f-79f0-4d57-b324-a1befe5b5517" />
+* <img width="1131" height="636" alt="Screenshot 2026-09-08 152056" src="https://github.com/user-attachments/assets/4235b0a8-7b67-4d68-bb46-4bb4ae10be0d" />
+
+
 ---
 
 ## 🚀 Getting Started & Reproduction
