@@ -55,7 +55,7 @@ mysql -u root -p indian_crime_analytics < database.sql
 
 Install project dependencies and execute model training and database sync:
 ```bash
-pip install pandas numpy scikit-learn pymysql
+pip install -r requirements.txt
 python train_models.py
 ```
 
